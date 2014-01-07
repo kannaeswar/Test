@@ -1,0 +1,12 @@
+Platform
+Control 
+Version
+EnterpriseId
+IncidentId
+PatchId
+CustomerName
+CustomerEmail
+RequestedName 
+CompanyName
+DatesBetween
+
